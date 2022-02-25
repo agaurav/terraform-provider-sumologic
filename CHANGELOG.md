@@ -1,5 +1,8 @@
 ## 2.14.0 (Unreleased)
 
+ENHANCEMENTS:
+* Add support for SumoCloudSOAR webhook connection
+
 ## 2.13.0 (February 24, 2022)
 
 FEATURES:
